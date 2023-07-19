@@ -1,5 +1,4 @@
 - 👋 Hi, I’m **@buseozell**
-- 👀 I am continuing my education as a 3rd year student in the Department of Software Engineering at Izmir University of Economics, which I entered in 2018. 
-On this platform, I will share some of the projects that I am developing individually or that we carry out together with the academy.
-- 📫 You can reach me via the e-mail address "buse.ozel@std.izmirekonomi.edu.tr" or "buse.ozel001@gmail.com.
+- 👀 I graduated from Izmir University of Economics, Department of Software Engineering, which I entered in 2018, in 2023. On this platform, I will share with you some of the work I am developing individually or with my teammates.
+- 📫 You can reach me at "buse.ozel001@gmail.com" e-mail address.
 
